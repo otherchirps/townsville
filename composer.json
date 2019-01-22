@@ -6,6 +6,7 @@
         }
     ],
     "require": {
+        "php": "5.6.39",
         "openaustralia/scraperwiki": "dev-morph_defaults",
         "ext-sqlite3": "*",
         "ext-pdo_sqlite": "*",
